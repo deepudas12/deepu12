@@ -1,2 +1,2 @@
-# watch
-bot watch &amp; earn
+watch-1
+
